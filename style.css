@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho&family=Mukta&display=swap');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  background-color: #666699;
+  width: 100%;
+  height: 100px;
+  font-family:  'BIZ UDPMincho', serif;
+  font-size: 10px;
+  text-align: center;
+}
+img{
+  width: 100%;
+}
+body{
+  background-color: #7E84C7;
+}
+button{
+  font-size: 20px;
+  font-family: 'BIZ UDPMincho', serif;
+  text-align: center;
+   margin: 20px;
+  height: 200px;
+  width: 90%;
+  border-radius: 20px;
+  background: #42445A;
+  box-shadow: 19px 19px 32px #d0d0d0, -19px - 19px 32px #f0f0f0;
+  transition: 0.5s all ease-in-out;
+}
+button :hover{
+  transform: scale(1.1);
+  background: whitesmoke;
+}
+.footer{
+  padding:50px 0;
+  color:#f0f9ff;
+  background-color:#282d32;
+  text-align: center;
+  font-family: 'BIZ UDPMincho', serif;
+}

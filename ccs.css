@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho&family=Mukta&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-size: 20px;
+  font-family: 'BIZ UDPMincho', serif;
+  background: floralwhite;
+}
+p{
+  text-align: center;
+}
+h1{
+  font-size: 25px
+}
